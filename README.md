@@ -1,2 +1,2 @@
 # SquadV
-'SquadV' - .NET modification for GTA 5
+`SquadV` - .NET modification for GTA 5
