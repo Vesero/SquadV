@@ -1,4 +1,4 @@
-# SquadV [Not completed]
+# SquadV [Development stopped]
 SquadV - .NET modification for GTA 5
 
 Development stopped because there is already a mod that is very similar in my ideas.
